@@ -3,4 +3,51 @@ Feature Request Guidelines
 Created by: Dexter Roberts
 Date Created: 05.11.24
 Last Modified: 05.11.24
+Description: This document provides a structured approach to prioritize 
+feature requests effectively, ensuring that resources are allocated efficiently 
+to deliver maximum value to users and stakeholders. Adjust the priority levels 
+and criteria as needed to suit the specific context of your software development process.
+
+Priority Levels:
+
+P0 - Critical: Features critical to the core functionality of the software, essential for its primary purpose, or necessary for compliance or business viability.
+
+Criteria:
+
+Essential features required for basic functionality.
+Compliance or regulatory requirements.
+Business-critical features with significant impact on revenue or user experience.
+Features needed to address critical user needs or market demands.
+P1 - High: Important features that significantly enhance user experience, improve efficiency, or align with strategic goals.
+
+Criteria:
+
+Features with high user demand or significant potential impact.
+Enhancements that streamline workflows or improve efficiency.
+Features aligned with strategic objectives or product roadmap.
+Critical integrations with third-party systems or services.
+P2 - Medium: Features that provide value to users but are not critical for immediate implementation.
+
+Criteria:
+
+Features requested by a subset of users or stakeholders.
+Enhancements that improve usability or add new functionality.
+Features that enhance product differentiation or competitiveness.
+Non-urgent improvements that contribute to long-term product goals.
+P3 - Low: Nice-to-have features that add value but are not essential for the core functionality or user experience.
+
+Criteria:
+
+Features requested by a small group of users or stakeholders.
+Minor enhancements or customizations.
+Features with low impact on user experience or business goals.
+Low-priority improvements with limited resource requirements.
+P4 - Trivial: Minor enhancements or cosmetic changes that have minimal impact on functionality or user experience.
+
+Criteria:
+
+Small improvements requested for aesthetic purposes.
+Features with negligible impact on usability or workflow.
+Low-priority requests with minimal resource investment.
+Note: Prioritize feature requests based on their potential impact on users, business objectives, and alignment with the product vision. Regularly review and update priorities to adapt to changing requirements and market dynamics.
 
