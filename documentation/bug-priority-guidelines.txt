@@ -1,0 +1,58 @@
+Bug Priority Guidelines
+
+Created by: Dexter Roberts
+Date Created: 05.11.24
+Last Modified: 05.11.24
+
+Description: The Bug Priority Guidelines document provides a structured framework 
+for assigning priority levels to software bugs. It outlines five priority levels 
+(P0 to P4) along with clear criteria for each level. This document ensures consistency 
+and efficiency in bug triaging, helping teams prioritize and address issues effectively 
+based on their severity, impact, and urgency.
+
+Bug Priority Guidelines
+
+Priority Levels:
+
+P0 - Critical: Issues that render the system completely unusable, causing data loss, security breaches, or significant financial impact.
+
+Criteria:
+
+System crashes or major malfunctions.
+Security vulnerabilities with high potential for exploitation.
+Loss of critical functionality affecting a large portion of users.
+Significant financial impact to the company or clients.
+P1 - High: Severe issues that significantly impact system functionality or user experience.
+
+Criteria:
+
+Major functionality impairment affecting a subset of users.
+Critical feature not functioning as expected.
+Severe performance degradation.
+Critical UI/UX issues affecting usability.
+P2 - Medium: Important issues that affect system functionality or user experience but have reasonable workarounds.
+
+Criteria:
+
+Non-critical features not functioning as expected.
+Moderate performance degradation.
+Minor security vulnerabilities with limited impact.
+Non-critical UI/UX issues affecting usability.
+P3 - Low: Minor issues that have minimal impact on system functionality or user experience.
+
+Criteria:
+
+Cosmetic issues that don't affect functionality or usability.
+Minor performance issues that have negligible impact on user experience.
+Documentation errors or typos.
+Low priority enhancements or feature requests.
+P4 - Trivial: Minor issues or enhancements that have little to no impact on system functionality or user experience.
+
+Criteria:
+
+Suggestions for minor improvements.
+Issues with negligible impact on functionality or user experience.
+Low-priority feature requests or enhancements.
+
+
+Note: Assign priorities based on the combination of severity, impact, and urgency. Always prioritize critical bugs over less severe ones.
