@@ -1,0 +1,29 @@
+[2024-05-11 08:00:00] INFO: Application started successfully.
+[2024-05-11 08:05:00] INFO: Imagery loaded successfully.
+[2024-05-11 08:10:00] INFO: Boundary lines toggled off.
+[2024-05-11 08:15:00] INFO: Annotation tool switched to 'Road Signs'.
+[2024-05-11 08:20:00] INFO: Road Signs tool used to add annotation at (x: 100, y: 200).
+[2024-05-11 08:25:00] INFO: Road Signs tool used to add annotation at (x: 150, y: 250).
+[2024-05-11 08:30:00] INFO: Road Signs tool used to add annotation at (x: 200, y: 300).
+[2024-05-11 08:35:00] INFO: Road Signs tool used to add annotation at (x: 250, y: 350).
+[2024-05-11 08:40:00] INFO: Road Signs tool used to add annotation at (x: 300, y: 400).
+[2024-05-11 08:45:00] INFO: Annotation tool switched to 'Lane Markings'.
+[2024-05-11 08:50:00] INFO: Lane Markings tool used to add annotation at (x: 400, y: 500).
+[2024-05-11 08:55:00] INFO: Lane Markings tool used to add annotation at (x: 450, y: 550).
+[2024-05-11 09:00:00] INFO: Lane Markings tool used to add annotation at (x: 500, y: 600).
+[2024-05-11 09:05:00] INFO: Lane Markings tool used to add annotation at (x: 550, y: 650).
+[2024-05-11 09:10:00] INFO: Lane Markings tool used to add annotation at (x: 600, y: 700).
+[2024-05-11 09:15:00] INFO: Annotation tool switched to 'Types of Lanes'.
+[2024-05-11 09:20:00] INFO: Types of Lanes tool used to add annotation at (x: 700, y: 800).
+[2024-05-11 09:25:00] INFO: Types of Lanes tool used to add annotation at (x: 750, y: 850).
+[2024-05-11 09:30:00] INFO: Types of Lanes tool used to add annotation at (x: 800, y: 900).
+[2024-05-11 09:35:00] INFO: Types of Lanes tool used to add annotation at (x: 850, y: 950).
+[2024-05-11 09:40:00] INFO: Types of Lanes tool used to add annotation at (x: 900, y: 1000).
+[2024-05-11 09:45:00] INFO: Annotations saved successfully.
+[2024-05-11 09:50:00] ERROR: Video cache refresh timed out. Retrying attempt 1...
+[2024-05-11 09:55:00] ERROR: Video cache refresh timed out again. Retrying attempt 2...
+[2024-05-11 10:00:00] ERROR: Video cache refresh timed out again. Retrying attempt 3...
+[2024-05-11 10:05:00] ERROR: Video cache refresh timed out again. Attempting to clear cache...
+[2024-05-11 10:10:00] ERROR: Failed to clear video cache. Max limit reached. Application performance may degrade.
+[2024-05-11 10:15:00] WARNING: Application response time slowing down. Possible memory leak detected.
+[2024-05-11 10:20:00] ERROR: Application crashed due to an unrecoverable error. Error code: 5001.
